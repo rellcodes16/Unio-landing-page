@@ -1,0 +1,33 @@
+.navbar{
+    padding: 1.2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-right{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 120px;
+    height: 50px;
+    align-self: center;
+}
+
+.link-list{
+    display: flex;
+    justify-content: space-between;
+}
+
+.link-list li{
+    list-style: none;
+    margin-right: 1rem;
+    align-self: center;
+    cursor: pointer;
+}
+
+.link-list li a{
+    text-decoration: none;
+    color: black;
+}

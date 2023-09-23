@@ -1,0 +1,18 @@
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 500px;
+}
+
+.phone{
+    width: 500px;
+    height: auto;
+}
+
+.google{
+    width: 150px;
+    height: auto;
+    margin-right: 0.7rem;
+    margin-top: 1.2rem;
+}
