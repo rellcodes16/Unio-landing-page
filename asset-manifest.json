@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Unio-landing-page/static/css/main.fa1dbb5e.css",
+    "main.js": "/Unio-landing-page/static/js/main.a366f855.js",
+    "static/media/phone-img.jpg": "/Unio-landing-page/static/media/phone-img.f6e0c1ac090dcb080b6b.jpg",
+    "static/media/logo.jpg": "/Unio-landing-page/static/media/logo.4abab9a6c4a801e9f444.jpg",
+    "index.html": "/Unio-landing-page/index.html",
+    "main.fa1dbb5e.css.map": "/Unio-landing-page/static/css/main.fa1dbb5e.css.map",
+    "main.a366f855.js.map": "/Unio-landing-page/static/js/main.a366f855.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa1dbb5e.css",
+    "static/js/main.a366f855.js"
+  ]
+}
